@@ -1,0 +1,30 @@
+.caixa {
+    display: grid;
+    justify-content: center;
+}
+
+.input {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 18px;
+    padding: 6px 10px;
+}
+
+.botao {
+    background-color: #f472b6;
+    color: white;
+    padding: 8px 14px;
+    border: none;
+    border-radius: 8px;
+    font-weight: 600;
+}
+
+
+.botao-deletar {
+    background-color: #ef4444;
+    color: white;
+    border-radius: 8px;
+    padding: 4px 8px;
+    margin-top: 16px;
+    border: none;
+}
